@@ -1,0 +1,109 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    width: 1000px;
+}
+
+#dojos {
+    float: left;
+    width: 50%;
+}
+
+#dojos h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#dojos label {
+    float: left;
+    clear: left;
+    width: 75px;
+    text-align: left;
+    margin-left: 125px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#dojos input {
+    float: left;
+    margin: 5px 0px;
+}
+
+#dojos button {
+    position: absolute;
+    left: 210px;
+    top: 170px;
+    padding: 3px;
+}
+
+#ninjas {
+    float: right;
+    width: 50%;
+}
+
+#ninjas h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#ninjas label {
+    float: left;
+    clear: left;
+    width: 110px;
+    text-align: left;
+    margin-left: 100px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#ninjas select {
+    float: left;
+    clear: left;
+    width: auto;
+    text-align: left;
+    margin-left: 220px;
+    margin-top: -25px;
+    font-weight: bold;
+}
+
+#ninjas input {
+    float: left;
+    margin: 5px 0px;
+}
+
+#ninjas button {
+    position: absolute;
+    right: 526px;
+    top: 170px;
+    padding: 3px;
+}
+#all_dojos {
+    clear: both;
+    margin: auto;
+    width: 50%;
+    padding-top: 50px;
+    text-align: center;
+}
+
+#all_dojos h1 {
+    padding: 10px;
+}
+
+#all_dojos a {
+    font-size: small;
+    font-weight: normal;
+}
+
+li {
+    padding: 3px;
+    margin-left: 200px;
+    text-align: left;
+}
+
+li span {
+    position: relative;
+    left: 5px;
+}
